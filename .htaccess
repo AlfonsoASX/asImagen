@@ -1,2 +1,2 @@
-RewriteEngine On
-RewriteRule ^([a-zA-Z0-9_%()—Ò¡…Õ”⁄%·ÈÌÛ˙]+).(jpg|png|gif|JPG|PNG|GIF)$ index.php?a=$1&s=$2 [L,NC]
+ÔªøRewriteEngine On
+RewriteRule ^([a-zA-Z0-9_%()√ë√±√Å√â√ç√ì√ö%√°√©√≠√≥√∫]+).(jpg|png|gif|JPG|PNG|GIF)$ index.php?a=$1&s=$2 [L,NC]
